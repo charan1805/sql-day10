@@ -1,0 +1,12 @@
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.exe.config
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.exe
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\AdvancedDb.pdb
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.dll
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.SqlServer.dll
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.xml
+D:\day 8\AdvancedDb\AdvancedDb\bin\Debug\EntityFramework.SqlServer.xml
+D:\day 8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.AssemblyReference.cache
+D:\day 8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.CoreCompileInputs.cache
+D:\day 8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.csproj.CopyComplete
+D:\day 8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.exe
+D:\day 8\AdvancedDb\AdvancedDb\obj\Debug\AdvancedDb.pdb
